@@ -809,7 +809,7 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 || 证券分析 || Security Analysis || [https://zh.wikipedia.org/wiki/%E6%9C%AC%E6%9D%B0%E6%98%8E%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 本杰明·格雷厄姆] (美)<br>[https://en.wikipedia.org/wiki/David_Dodd 戴维·多德] (美) || 简体PDF(扫描版)<br>简体EPUB || 2013-04-29<br>2013-09-13 || [http://goo.gl/IG7E0l 简介] ||
 || 聪明的投资者<br>(投资指南) || The Intelligent Investor || [https://zh.wikipedia.org/wiki/%E6%9C%AC%E6%9D%B0%E6%98%8E%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 本杰明·格雷厄姆] (美) || 简体PDF(扫描版) || 2014-02-20 || [http://goo.gl/OzKVTp 简介] ||
 || 非理性繁荣 || Irrational Exuberance || [https://en.wikipedia.org/wiki/Robert_J._Shiller Robert Shiller] (美) || 简体PDF(扫描版) || 2014-05-23 || [http://goo.gl/nLY9hO 简介] ||
-|| 金融炼金术 || The Alchemy of Finance || [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E7%B4%A2%E7%BD%97%E6%96%AF 索罗斯] (美) || 简体PDF<br>简体EPUB || 2013-04-29<br>2013-09-13 || [http://goo.gl/SIW1dT 简介] ||
+|| 金融炼金术 || The Alchemy of Finance || [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E7%B4%A2%E7%BD%97%E6%96%AF 索罗斯] (美) || 简体PDF<br>简体EPUB<br>简体MOBI || 2013-04-29<br>2013-09-13<br>2015-05-10 || [http://goo.gl/SIW1dT 简介] ||
 
 == 4.4 经济学家 ==
 
@@ -821,14 +821,14 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 (本类别是偏重于经济领域的博弈论)
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 策略思维<br>——商界、政界及日常生活中的策略竞争 || Thinking Strategically<br>——The Competitive Edge<br> in Business, Politics, and Everyday Life || [https://en.wikipedia.org/wiki/Barry_Nalebuff Barry Nalebuff] (美)<br>[https://en.wikipedia.org/wiki/Avinash_Dixit Avinash Dixit] (美) || 简体PDF(扫描版) || 2014-01-09 || [http://goo.gl/63DJIm 简介] ||
+|| 策略思维<br>——商界、政界及日常生活中的策略竞争 || Thinking Strategically<br>——The Competitive Edge<br> in Business, Politics, and Everyday Life || [https://en.wikipedia.org/wiki/Barry_Nalebuff Barry Nalebuff] (美)<br>[https://en.wikipedia.org/wiki/Avinash_Dixit Avinash Dixit] (美) || 简体PDF(扫描版)<br>简体MOBI || 2014-01-09<br>2015-05-10 || [http://goo.gl/63DJIm 简介] ||
 || 剪刀、石头、布<br>——趣味博弈论 || Rock, Paper, Scissors<br>——Game Theory in Everyday Life || Len Fisher (英) || 简体PDF(扫描版) || 2014-04-06 || [http://goo.gl/IesRNM 简介] ||
 
 == 4.6 (其它) ==
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 世界是平的<br>——21世纪简史 || The World Is Flat<br>——A Brief History of the Twenty-first Century || [https://zh.wikipedia.org/wiki/%E6%B9%AF%E9%A6%AC%E6%96%AF%C2%B7%E4%BD%9B%E9%87%8C%E6%9B%BC 托马斯·弗里德曼] (美) || 简体PDF(大字版) || 2014-01-09 || [http://goo.gl/Kxnnhz 简介] ||
-|| 蓝海战略<br>——超越产业竞争，开创全新市场 || Blue Ocean Strategy || [https://en.wikipedia.org/wiki/W._Chan_Kim W. Chan Kim] (韩) || 简体PDF || 2013-12-31 || [http://goo.gl/C1M0eS 简介] ||
+|| 世界是平的<br>——21世纪简史 || The World Is Flat<br>——A Brief History of the Twenty-first Century || [https://zh.wikipedia.org/wiki/%E6%B9%AF%E9%A6%AC%E6%96%AF%C2%B7%E4%BD%9B%E9%87%8C%E6%9B%BC 托马斯·弗里德曼] (美) || 简体PDF(大字版)<br>简体MOBI || 2014-01-09<br>2015-05-10 || [http://goo.gl/Kxnnhz 简介] ||
+|| 蓝海战略<br>——超越产业竞争，开创全新市场 || Blue Ocean Strategy || [https://en.wikipedia.org/wiki/W._Chan_Kim W. Chan Kim] (韩) || 简体PDF<br>简体MOBI || 2013-12-31<br>2015-05-10 || [http://goo.gl/C1M0eS 简介] ||
 
 
 <hr>
