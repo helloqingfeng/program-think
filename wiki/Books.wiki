@@ -674,14 +674,14 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 全球通史<br>——从史前史到21世纪 || A Global History<br>——From Prehistory to the 21st Century || [https://zh.wikipedia.org/wiki/L%C2%B7S%C2%B7%E6%96%AF%E5%A1%94%E5%A4%AB%E9%87%8C%E9%98%BF%E8%AF%BA%E6%96%AF 斯塔夫里阿诺斯] (加) || 简体PDF(上下)<br>简体CHM || 2013-02-27<br>2013-02-07 || [http://goo.gl/UR35JR 简介] ||
-|| 枪炮、病菌与钢铁<br>——人类社会的命运 || Guns, Germs, and Steel<br>——The Fates of Human Societies || [https://zh.wikipedia.org/wiki/%E8%B3%88%E5%BE%B7%C2%B7%E6%88%B4%E8%92%99 贾雷德·戴蒙德] (美) || 简体PDF(大字版)<br>简体EPUB<br>简体CHM<br>英文PDF || 2013-04-20<br>2013-09-13<br>2013-02-05<br>2013-02-05 || [http://goo.gl/3JWj0V 简介] ||
-|| 崩溃<br>——社会如何选择成败兴亡 || Collapse<br>——How Societise Choose to Fail or Succeed || (同上) || 简体PDF(大字版) || 2013-04-20 || [http://goo.gl/qkwb3T 简介] ||
+|| 枪炮、病菌与钢铁<br>——人类社会的命运 || Guns, Germs, and Steel<br>——The Fates of Human Societies || [https://zh.wikipedia.org/wiki/%E8%B3%88%E5%BE%B7%C2%B7%E6%88%B4%E8%92%99 贾雷德·戴蒙德] (美) || 简体PDF(大字版)<br>简体EPUB<br>简体CHM<br>简体MOBI<br>英文PDF || 2013-04-20<br>2013-09-13<br>2013-02-05<br>2015-05-11<br>2013-02-05 || [http://goo.gl/3JWj0V 简介] ||
+|| 崩溃<br>——社会如何选择成败兴亡 || Collapse<br>——How Societise Choose to Fail or Succeed || (同上) || 简体PDF(大字版)<br>简体MOBI || 2013-04-20<br>2015-05-11 || [http://goo.gl/qkwb3T 简介] ||
 || 大国的兴衰<br>——1500年-2000年的经济变迁与军事冲突 || The Rise and Fall of the Great Powers<br>——Economic Change and Military Conflict from 1500-2000 || [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E8%82%AF%E5%B0%BC%E8%BF%AA_%28%E5%8E%86%E5%8F%B2%E5%AD%A6%E5%AE%B6%29 保罗·肯尼迪] (英) || 简体PDF || 2014-06-22 || [http://goo.gl/7O16qw 简介] ||
 
 == 3.2 欧洲史 ==
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 你一定爱读的极简欧洲史<br>——为什么欧洲对现代文明的影响这么深 || The Shortest History of Europe || [https://en.wikipedia.org/wiki/John_Hirst_%28historian%29 John Hirst] (澳) || 简体PDF(扫描版) || 2014-07-28 || [http://goo.gl/rXMMLS 简介] ||
+|| 你一定爱读的极简欧洲史<br>——为什么欧洲对现代文明的影响这么深 || The Shortest History of Europe || [https://en.wikipedia.org/wiki/John_Hirst_%28historian%29 约翰·赫斯特] (澳) || 简体PDF(扫描版)<br>简体MOBI || 2014-07-28<br>2015-05-11 || [http://goo.gl/rXMMLS 简介] ||
 || 战后欧洲史 || Postwar<br>——A History of Europe Since 1945 || [https://zh.wikipedia.org/zh-cn/%E6%89%98%E5%B0%BC%C2%B7%E6%9C%B1%E7%89%B9 托尼·朱特] (美) || 简体PDF(扫描版) || 2014-08-11 || [http://goo.gl/Zfc3XN 简介] ||
 
 == 3.3 中国 ==
@@ -712,7 +712,7 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 || 民国人物过眼录 || || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%A5%8E%E6%9D%BE 杨奎松] || 简体PDF(扫描版) || 2014-02-21 || [http://goo.gl/PWSxql 简介] ||
 || 叫魂<br>——1768年中国妖术大恐慌 || Soulstealers<br>——The Chinese Sorcery Scare of 1768 || [https://en.wikipedia.org/wiki/Philip_A._Kuhn Philip Kuhn] (美 中文名：[https://zh.wikipedia.org/wiki/%E5%AD%94%E9%A3%9E%E5%8A%9B 孔飞力]) || 简体PDF(扫描版) || 2014-05-23 || [http://goo.gl/0CLu5f 简介] ||
 || 重返五四现场<br>——1919，一个国家的青春记忆 || || 叶曙明 || 简体PDF(扫描版) || 2013-05-01 || [http://goo.gl/iMeCdW 简介] ||
-|| 张学良口述历史 || || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E5%AD%A6%E8%89%AF 张学良]<br>[https://zh.wikipedia.org/wiki/%E5%94%90%E5%BE%B7%E5%88%9A 唐德刚] || 简体PDF(扫描版) || 2015-01-07 || [http://goo.gl/dR8xkO 简介] ||
+|| 张学良口述历史 || || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E5%AD%A6%E8%89%AF 张学良]<br>[https://zh.wikipedia.org/wiki/%E5%94%90%E5%BE%B7%E5%88%9A 唐德刚] || 简体PDF(扫描版)<br>简体EPUB<br>简体MOBI || 2015-01-07<br>2015-05-11<br>2015-05-11 || [http://goo.gl/dR8xkO 简介] ||
 || 旷世风雷一梦痕<br>——九十年人生经历见证 || || 王思诚 || 繁體PDF(竪排掃描版) || 2013-07-07 || [http://goo.gl/OOS8jr 简介] ||
 
 === 3.3.3 丛书 ===
