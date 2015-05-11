@@ -637,11 +637,11 @@ BT Sync 密钥： BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 == 2.6 洗脑 ==
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 洗脑术<br>——思想控制的荒唐史 || Brainwash<br>——The Secret History of Mind Control || [https://en.wikipedia.org/wiki/Dominic_Streatfeild Dominic Streatfeild] (英) || 简体PDF(扫描版) || 2012-12-16 || [http://goo.gl/IVkRk9 简介] ||
+|| 洗脑术<br>——思想控制的荒唐史 || Brainwash<br>——The Secret History of Mind Control || [https://en.wikipedia.org/wiki/Dominic_Streatfeild Dominic Streatfeild] (英) || 简体PDF(扫描版)<br>简体MOBI || 2012-12-16<br>2015-05-11 || [http://goo.gl/IVkRk9 简介] ||
 || 人的驯化、躲避与反叛 || || [https://zh.wikipedia.org/wiki/%E8%83%A1%E5%B9%B3_%28%E4%BD%9C%E5%AE%B6%29 胡平] || 简体PDF<br>简体PDF(大字版)<br>简体TXT || 2013-05-01<br>2013-04-20<br>2013-03-17 || [http://goo.gl/SUIR2g 简介] ||
 || 思想改造和极权主义心理学<br>——中国的洗脑研究 || Thought Reform and the Psychology of Totalism<br>——A Study of Brainwashing in China || [https://en.wikipedia.org/wiki/Robert_Lifton Robert Jay Lifton] (美) || 英文MOBI || 2012-10-14 || [http://goo.gl/9oyo6T 简介] ||
 || 洗脑<br>——思维控制的科学 || Brainwashing<br>——The Science of Thought Control || [https://en.wikipedia.org/wiki/Kathleen_Taylor_%28biologist%29 Kathleen Taylor] (英) || 英文PDF || 2012-10-14 || [http://goo.gl/bOEcne 简介] ||
-|| 洗脑的历史 || || 傅志彬 || 简体PDF || 2015-02-15 || [http://goo.gl/uJlbBH 简介] ||
+|| 洗脑的历史 || || 傅志彬 || 简体PDF<br>简体PDF(扫描版) || 2015-02-15<br>2015-05-11 || [http://goo.gl/uJlbBH 简介] ||
 
 == 2.7 审讯与反审讯 ==
 
@@ -653,7 +653,7 @@ BT Sync 密钥： BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 == 2.8 (其它) ==
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 与众不同的心理学——如何正视心理学<br>(对“伪心理学”说不) || How to Think Straight about Psychology || [https://en.wikipedia.org/wiki/Keith_Stanovich Keith Stanovich] (加) || 简体PDF(第7版 扫描版)<br>简体EPUB(第8版)<br>简体MOBI(第8版) || 2012-12-29<br>2015-02-16<br>2015-02-16 || [http://goo.gl/eVfMk7 简介] ||
+|| 与众不同的心理学——如何正视心理学<br>(对“伪心理学”说不) || How to Think Straight about Psychology || [https://en.wikipedia.org/wiki/Keith_Stanovich Keith Stanovich] (加) || 简体PDF(第8版 扫描版)<br>简体PDF(第7版 扫描版)<br>简体EPUB(第8版)<br>简体MOBI(第8版) || 2015-05-11<br>2012-12-29<br>2015-02-16<br>2015-02-16 || [http://goo.gl/eVfMk7 简介] ||
 || 怪诞行为学<br>——可预测的非理性 || Predictably Irrational<br>——The Hidden Forces That Shape Our Decisions || [https://zh.wikipedia.org/wiki/%E4%B8%B9%C2%B7%E8%89%BE%E7%91%9E%E9%87%8C 丹·艾瑞里] (美) || 简体PDF(扫描版)<br>简体EPUB || 2014-07-27<br>2015-01-07 || [http://goo.gl/bCEnJH 简介] ||
 || 怪诞行为学2<br>——非理性的积极力量 || The Upside of Irrationality<br>——The Unexpected Benefits of Defying Logic at Work and at Home || (同上) || 简体EPUB || 2015-01-07 || [http://goo.gl/CkHNTH 简介] ||
 
