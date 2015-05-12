@@ -145,6 +145,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 || 平民政治的基本原理 || The Fundamental Principles of Government || [https://zh.wikipedia.org/wiki/%E8%8A%AE%E6%81%A9%E6%96%BD 保罗·芮恩施] (美) || 简体PDF(扫描版) || 2013-01-14 || [http://goo.gl/0DbAvr 简介] ||
 || 宪政与权利 || || (多人) || 简体PDF || 2013-04-13 || [http://goo.gl/kesZbY 简介] ||
 || 宪政主义<br>——观念与制度的转捩 || || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%80%A1 王怡] || 简体PDF(扫描版) || 2013-05-19 || [http://goo.gl/Ysf3eg 简介] ||
+|| 罗伯特议事规则 || Robert's Rules of Order || [https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E9%A6%AC%E4%B8%81%C2%B7%E7%BE%85%E4%BC%AF%E7%89%B9 亨利·马丁·罗伯特] (美)<br>等 || 简体MOBI || 2015-05-12 || [https://goo.gl/Q6NcXW 简介] ||
+|| 可操作的民主<br>——罗伯特议事规则下乡全纪录 || || 寇延丁<br>袁天鹏 || 简体PDF(扫描版) || 2015-05-12 || [https://goo.gl/cGKYkJ 简介] ||
 
 === 1.1.2 自由主义 ===
 
@@ -216,9 +218,11 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 第二性 || The Second Sex || [https://zh.wikipedia.org/wiki/%E8%A5%BF%E8%92%99%C2%B7%E6%B3%A2%E5%A8%83 西蒙·波伏娃] (法) || 简体PDF(扫描版) || 2013-04-10 || [http://goo.gl/NbFSo5 简介] ||
+|| 女权主义理论<br>——从边缘到中心 || Feminist Theory<br>——From Margin to Center || [https://en.wikipedia.org/wiki/Bell_hooks 贝尔·胡克斯] (美) || 简体PDF(扫描版) || 2015-05-12 || [https://goo.gl/ahDEyU 简介] ||
 || 女权辩护<br>——关于政治和道德问题的批评 || A Vindication of the Rights of Woman<br>——with Strictures on Political and Moral Subjects || [https://zh.wikipedia.org/wiki/%E7%8E%9B%E4%B8%BD%C2%B7%E6%B2%83%E6%96%AF%E9%80%9A%E5%85%8B%E6%8B%89%E5%A4%AB%E7%89%B9 玛丽·沃斯通克拉夫特] (英) || 简体PDF || 2013-04-10 || [http://goo.gl/ZvtCFJ 简介] ||
 || 女性的奥秘 || The Feminine Mystique || [https://zh.wikipedia.org/wiki/%E8%B4%9D%E8%92%82%C2%B7%E5%BC%97%E9%87%8C%E4%B8%B9 贝蒂·弗里丹] || 简体PDF(扫描版) || 2013-04-10 || [http://goo.gl/CahRAx 简介] ||
 || 女权主义 || || 简·弗里德曼 || 简体PDF(扫描版) || 2014-02-03 || [http://goo.gl/mL4VVC 简介] ||
+|| 妇女<br>——最漫长的革命 || || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%93%B6%E6%B2%B3 李银河] (主编) || 简体PDF(扫描版) || 2015-05-12 || [https://goo.gl/EjZLmi 简介] ||
 || 三个原始部落的性别与气质 || Sex and Temperament in Three Primitive Societies || [https://zh.wikipedia.org/wiki/%E7%91%AA%E6%A0%BC%E9%BA%97%E7%89%B9%C2%B7%E7%B1%B3%E5%BE%B7 玛格丽特·米德] (美) || 简体PDF(扫描版) || 2013-08-13 || [http://goo.gl/XVViba 简介] ||
 || 醒来的女性 || || || 简体PDF || 2014-07-27 || [http://goo.gl/JmQ8WC 简介] ||
 
@@ -286,6 +290,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 || 惊心动魄的五十六天 || 国家教委思想政治工作司 || [http://www.64memo.com/b5/2.htm 繁體在線版] || N/A || [http://goo.gl/kdFvGe 简介] ||
 || 1989年北京制止动乱平息反革命暴乱纪事 || 北京市委办公厅 || 简体PDF(扫描版) || 2013-01-18 || [http://goo.gl/yEcC1H 简介] ||
 || 陈希同亲述<br>——众口铄金难铄真 || [https://zh.wikipedia.org/wiki/%E5%A7%9A%E7%9B%91%E5%A4%8D 姚监复] || 繁體PDF || 2013-06-10 || [http://goo.gl/pAoGRS 简介] ||
+|| 加拿大政府“六四事件”解密档案 || 加拿大驻华使馆  || 英文PDF(影印版) || 2015-05-12 || [https://goo.gl/nsNElN 简介] ||
 
 ==== 1.3.1.3 文革时期 ====
 
@@ -308,6 +313,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 || 自由在落日中 || Freedom in the Sunset || [https://zh.wikipedia.org/zh/%E8%A2%81%E7%BA%A2%E5%86%B0 袁红冰] (原名：袁红兵) || 简体CHM || 2013-06-22 || [http://goo.gl/7F7R2o 简介] ||
 || 第二种忠诚 || || [https://zh.wikipedia.org/wiki/%E5%88%98%E5%AE%BE%E9%9B%81 刘宾雁] || 简体PDF || 2013-03-09 || [http://goo.gl/lloAYP 简介] ||
 || 文革三大屠杀案 || || (多人) || 简体PDF || 2015-02-17 || [http://goo.gl/Q46EHW 简介] ||
+|| 血的神话<br>——1967年湖南道县文革大屠杀纪实 || || 谭合成 || 简体PDF || 2015-05-12 || [https://goo.gl/JsKdvc 简介] ||
 
 ==== 1.3.1.4 "大跃进"和大饥荒时期 ====
 
@@ -356,7 +362,12 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 || 红太阳下的罂粟花<br>——鸦片贸易与延安模式 || || [https://zh.wikipedia.org/wiki/%E9%99%B3%E6%B0%B8%E7%99%BC 陈永发] || 繁體PDF(掃描版) || 2012-10-05 || [http://goo.gl/gbMXbj 简介] ||
 || 内在的敌人 || The Enemy Within<br>——An Eyewitness Account<br> of the Communist Conquest of China || [https://zh.wikipedia.org/wiki/%E9%9B%B7%E9%9C%87%E8%BF%9C 雷震远] (比) || 简体EPUB<br>简体PDF<br>简体CHM || 2014-03-29<br>2014-02-03<br>2014-02-03 || [http://goo.gl/YNK0Hh 简介] ||
 
-==== 1.3.1.9 (其它) ====
+==== 1.3.1.9 江西时期 ====
+
+|| *书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| AB团与富田事变始末 || 戴向青<br>罗惠兰 || 简体PDF(扫描版) || 2015-05-12 || [https://goo.gl/rG43av 简介] ||
+
+==== 1.3.1.10 (其它) ====
 
 || *书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 谁是新中国<br>——中国现代史辨 || [https://zh.wikipedia.org/wiki/%E8%BE%9B%E7%81%8F%E5%B9%B4 辛灏年] (原名：高尔品) || 简体PDF<br>简体CHM || 2012-12-30<br>2012-12-10 || [http://goo.gl/FUevDR 简介] ||
