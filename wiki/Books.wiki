@@ -667,7 +667,7 @@ BT Sync 密钥： BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 || 与众不同的心理学——如何正视心理学<br>(对“伪心理学”说不) || How to Think Straight about Psychology || [https://en.wikipedia.org/wiki/Keith_Stanovich Keith Stanovich] (加) || 简体PDF(第8版 扫描版)<br>简体PDF(第7版 扫描版)<br>简体EPUB(第8版)<br>简体MOBI(第8版) || 2015-05-11<br>2012-12-29<br>2015-02-16<br>2015-02-16 || [http://goo.gl/eVfMk7 简介] ||
 || 怪诞行为学<br>——可预测的非理性 || Predictably Irrational<br>——The Hidden Forces That Shape Our Decisions || [https://zh.wikipedia.org/wiki/%E4%B8%B9%C2%B7%E8%89%BE%E7%91%9E%E9%87%8C 丹·艾瑞里] (美) || 简体PDF(扫描版)<br>简体EPUB || 2014-07-27<br>2015-01-07 || [http://goo.gl/bCEnJH 简介] ||
 || 怪诞行为学2<br>——非理性的积极力量 || The Upside of Irrationality<br>——The Unexpected Benefits of Defying Logic at Work and at Home || (同上) || 简体EPUB || 2015-01-07 || [http://goo.gl/CkHNTH 简介] ||
-
+|| 如何变得有思想——阮一峰博文集 || || 阮一峰 || 简体EPUB || 2015-05-12 || [https://goo.gl/rd7emX 简介] ||
 
 <hr>
 <hr>
@@ -1133,7 +1133,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 ==== 10.1.2.5 (其它) ====
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
-|| 编程之魂<br>——与27位编程语言创始人对话 || Masterminds of Programming<br>——Conversations with the Creators of Major Programming Languages || Federico Biancuzzi<br>Shane Warden || 2015-05-12 || [https://goo.gl/eW7MZb 简介] ||
+|| 编程之魂<br>——与27位编程语言创始人对话 || Masterminds of Programming<br>——Conversations with the Creators of Major Programming Languages || Federico Biancuzzi<br>Shane Warden || 简体PDF(扫描版) || 2015-05-12 || [https://goo.gl/eW7MZb 简介] ||
 
 === 10.1.3 算法和数据结构 ===
 
