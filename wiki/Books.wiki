@@ -1105,6 +1105,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 || C++ Primer || C++ Primer || [https://en.wikipedia.org/wiki/Stanley_B._Lippman Stanley Lippman]<br>等 || 英文CHM (第4版)<br>中文PDF(第3版) || 2013-10-20<br>2013-10-24 || [http://goo.gl/NdD8xw 简介] ||
 || C++ 标准库<br>——自修教程与参考手册 || The C++ Standard Library<br>——A Tutorial and Reference || Nicolai Josuttis || 英文CHM || 2013-10-20 || [http://goo.gl/2Y3dn4 简介] ||
 || 深度探索C++对象模型 || Inside the C++ Object Model || [https://en.wikipedia.org/wiki/Stanley_B._Lippman Stanley Lippman] || 英文CHM<br>中文PDF(扫描版) || 2013-10-20<br>2013-10-24 || [http://goo.gl/wkmkyN 简介] ||
+|| C++ Templates 全览 || C++ Templates<br>——The Complete Guide || David Vandevoorde<br>Nicolai Josuttis || 英文CHM || 2015-05-12 || [https://goo.gl/EogVO6 简介] ||
 || C++ 语言的设计和演化 ||  The Design and Evolution of C++ || [https://en.wikipedia.org/wiki/Bjarne_Stroustrup Bjarne Stroustrup] || 中文PDF(扫描版) || 2013-10-25 || [http://goo.gl/im8osn 简介] ||
 || 大规模 C++ 程序设计 || Large-Scale C++ Software Design || John Lakos || 简体PDF(扫描版) || 2013-10-30 || [http://goo.gl/90vxXF 简介] ||
 
@@ -1128,6 +1129,11 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 || ANSI Common Lisp || [https://en.wikipedia.org/wiki/Paul_Graham_%28computer_programmer%29 Paul Graham] / [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 保罗·格雷汉姆] (美) || 英文PDF || 2015-01-11 || [http://goo.gl/IrFlD2 简介] ||
 || On Lisp<br>——Advanced Techniques for Common Lisp || (同上) || 英文PDF || 2015-01-11 || [http://goo.gl/cCMbtU 简介] ||
 || Basic Lisp Techniques || David Cooper || 英文PDF || 2015-01-11 || [http://goo.gl/RlZKp8 简介] ||
+
+==== 10.1.2.5 (其它) ====
+
+|| *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| 编程之魂<br>——与27位编程语言创始人对话 || Masterminds of Programming<br>——Conversations with the Creators of Major Programming Languages || Federico Biancuzzi<br>Shane Warden || 2015-05-12 || [https://goo.gl/eW7MZb 简介] ||
 
 === 10.1.3 算法和数据结构 ===
 
@@ -1235,6 +1241,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 == 10.6 IT 公司 ==
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
+|| In the Plex<br>——Google 如何思考，运作，以及改变我们的生活方式 || In The Plex<br>——How Google Thinks, Works, and Shapes Our Lives || [https://en.wikipedia.org/wiki/Steven_Levy Steven Levy] (美) || 简体PDF || 2015-05-12 || [https://goo.gl/hWMpJs 简介] ||
 || 浪潮之巅 || On The Top of Tides || [https://zh.wikipedia.org/wiki/%E5%90%B4%E5%86%9B_(Google) 吴军] || 简体PDF(前18章)<br>简体MOBI (前16章) || 2013-10-22<br>2014-02-23 || [http://goo.gl/DL9uBi 简介] ||
 || Borland 传奇 || || 李维 || 简体PDF<br>简体EPUB<br>简体CHM || 2015-02-08<br>2015-02-08<br>2013-10-22 || [http://goo.gl/suZ5DO 简介] ||
 || DOOM 启世录 || Masters of Doom<br>——How Two Guys Created an Empire and Transformed Pop Culture || [https://en.wikipedia.org/wiki/David_Kushner David Kushner] (美) || 简体PDF<br>简体EPUB<br>简体MOBI<br>简体CHM || 2015-02-08<br>2015-02-08<br>2015-02-08<br>2013-11-26 || [http://goo.gl/JHmU25 简介] ||
@@ -1243,3 +1250,4 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 失控<br>——全人类的最终命运和结局 || Out of Control<br>——The New Biology of Machines, Social Systems, and the Economic World || [https://en.wikipedia.org/wiki/Kevin_Kelly_(editor) Kevin Kelly] / [https://zh.wikipedia.org/wiki/%E5%87%AF%E6%96%87%C2%B7%E5%87%AF%E5%88%A9 凯文·凯利] (美) || 简体EPUB<br>英文PDF || 2014-01-09<br>2015-01-11 || [http://goo.gl/MLnL5F 简介] ||
+|| 暗时间——刘未鹏博文集 || || 刘未鹏 || 简体EPUB || 2012-05-12 || [https://goo.gl/K289Ed 简介] ||
