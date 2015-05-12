@@ -1250,4 +1250,4 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 
 || *中文书名* || *英文书名* || *作者* || *文件类型* || *上传日期* || *备注* ||
 || 失控<br>——全人类的最终命运和结局 || Out of Control<br>——The New Biology of Machines, Social Systems, and the Economic World || [https://en.wikipedia.org/wiki/Kevin_Kelly_(editor) Kevin Kelly] / [https://zh.wikipedia.org/wiki/%E5%87%AF%E6%96%87%C2%B7%E5%87%AF%E5%88%A9 凯文·凯利] (美) || 简体EPUB<br>英文PDF || 2014-01-09<br>2015-01-11 || [http://goo.gl/MLnL5F 简介] ||
-|| 暗时间——刘未鹏博文集 || || 刘未鹏 || 简体EPUB || 2012-05-12 || [https://goo.gl/K289Ed 简介] ||
+|| 暗时间——刘未鹏博文集 || || 刘未鹏 || 简体EPUB || 2015-05-12 || [https://goo.gl/K289Ed 简介] ||
